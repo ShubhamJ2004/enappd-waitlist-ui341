@@ -1,5 +1,5 @@
 - Name: Shubham Jangid
-- Email: your-email@gmail.com
+- Email: your-email shubhamjangid341@gmail.com
 
 # Enappd Frontend Internship Assessment - Waitlist UI
 
