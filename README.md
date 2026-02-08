@@ -1,6 +1,6 @@
 # enappd-waitlist-ui
 Name: Shubham Jangid
-Email: your-email@gmail.com
+Email: your-email shubhamjangid341@gmail.com
 Enappd Frontend Internship Assessment - Waitlist UI
 This project is created as part of the Enappd Frontend Internship Evaluation.
 
